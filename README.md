@@ -1,3 +1,3 @@
-![Sajal github stats](https://github-readme-stats.vercel.app/api?username=salroid&show_icons=true&theme=light)
+![Sajal github stats](https://github-readme-stats.vercel.app/api?username=salroid&show_icons=true&theme=dark)
 
 
