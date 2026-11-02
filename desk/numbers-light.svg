@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160">
+<title>GitHub highlights: 787 stars across my repos; 182 forks of Filmy; 2015 the year I joined GitHub; 2020 code in the Arctic Code Vault</title>
+<rect x=".5" y=".5" width="999" height="159" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="44" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="3" fill="#1f2328">BY THE NUMBERS</text>
+<text x="956" y="43" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#59636e" text-anchor="end"></text>
+
+<text x="44" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#d94d1a">787</text>
+<text x="44" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">stars across my repos</text><line x1="258" x2="258" y1="68" y2="128" stroke="#d0d7de"/>
+<text x="280" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2328">182</text>
+<text x="280" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">forks of Filmy</text><line x1="494" x2="494" y1="68" y2="128" stroke="#d0d7de"/>
+<text x="516" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2328">2015</text>
+<text x="516" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">the year I joined GitHub</text><line x1="730" x2="730" y1="68" y2="128" stroke="#d0d7de"/>
+<text x="752" y="102" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#1f2328">2020</text>
+<text x="752" y="126" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">code in the Arctic Code Vault</text>
+</svg>

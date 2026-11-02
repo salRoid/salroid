@@ -1,76 +1,29 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="desk/desk-dark.svg"><img alt="salroid's desk: an ID card on a lanyard beside a terminal" src="desk/desk-light.svg"></picture>
 
-# Hi there, I’m Sajal Gupta 👋  
-Also known as **salRoid**
+## Hi there, I'm Sajal Gupta 👋 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=salRoid&label=Profile%20views&color=ff6a3d&style=flat-square&abbreviated=true">
+Also known as **salroid**.
 
----
+- 📍 Based in Hyderabad, India
+- 💼 Staff Software Engineer at **ServiceNow**
+- 🔧 I build apps and tools that make everyday life a little more interesting
+- ✍️ I build, I design and I write, at [salroid.me](https://www.salroid.me)
 
-## About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="desk/focus-dark.svg"><img alt="Current focus: Lumen, agents and MCP, ESP32 desk gadgets, mobile-first UI" src="desk/focus-light.svg"></picture>
 
-- 📍 Based in Hyderabad, India  
-- 💼 Working at **ServiceNow**  
-- 🔧 Passionate about building apps & tools that make everyday life more interesting  
-- 🤖 Currently exploring Android/Kotlin, C++, Python, Java, and full-stack web stuff  
-- 🚀 On a mission: learning, creating, sharing
+## 🔭 Spotlight
 
----
+<a href="https://github.com/salRoid/Filmy"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/project-Filmy-dark.svg"><img alt="Filmy: a Material movie app powered by TMDb, 767 stars" src="desk/project-Filmy-light.svg"></picture></a>
 
-## 🔭 Featured Projects
+## 🚀 Skills & tools
 
-🌟 **[Filmy](https://github.com/salRoid/Filmy)** — Material designed movie app powered by TMDb  
-⭐️ **767+ stars** • 🔄 182 forks • Kotlin  
+<picture><source media="(prefers-color-scheme: dark)" srcset="desk/skills-dark.svg"><img alt="Toolbox. Languages: TypeScript, JavaScript, Java, Kotlin, Python, C++. Frontend: React, Next.js, React Native, Framer Motion, TipTap. Backend: Node.js, Express, PostgreSQL, Prisma, AWS, Docker. Platform: ServiceNow, Android, MCP, Claude, ESP32." src="desk/skills-light.svg"></picture>
 
-🎮 **[UnbeatableTicTacToe](https://github.com/salRoid/UnbeatableTicTacToe)** — Tic Tac Toe game with unbeatable AI (C++)  
+## 🏆 GitHub highlights
 
-📄 **[Dynamic-Certificate-Generator](https://github.com/salRoid/Dynamic-Certificate-Generator)** — Generate bulk/single certificates with config files (Python)  
+<picture><source media="(prefers-color-scheme: dark)" srcset="desk/numbers-dark.svg"><img alt="GitHub highlights: 787 stars across my repos, 182 forks of Filmy, joined GitHub in 2015, code in the 2020 Arctic Code Vault" src="desk/numbers-light.svg"></picture>
 
-📚 **[Clasick](https://github.com/salRoid/Clasick)** — A platform for teachers & students to interact (Java)  
+## 📫 Get in touch
 
-🌐 **[salRoid.github.io](https://github.com/salRoid/salRoid.github.io)** — My portfolio website (CSS)  
-
-💜 **[InstaBadge](https://github.com/salRoid/InstaBadge)** — Custom view to mimic Instagram’s badge (Java)  
-
----
-
-## 🌱 Current Focus
-
-- Improving UI/UX on mobile apps  
-- Getting deeper with Android architecture & best practices  
-- Exploring backend systems & how they connect to front-end / mobile  
-- Contributing more to open source & coding communities
-
----
-
-## 🚀 Skills & Tools
-
-| Languages | Tools & Frameworks | Other Interests |
-|-----------|--------------------|------------------|
-| Kotlin, Java, C++, Python | Android, TMDb API, Git, CI/CD | Design patterns, AI, teaching |
-
----
-
-## 📫 Get in Touch
-
-- 🌐 Website: https://www.salroid.me  
-- ✉️ Email: gupta.sajal631@gmail.com  
-- 🐦 X/Twitter: [@salRoid](https://twitter.com/salroid)
-
----
-
-## 🏆 GitHub Highlights
-
-- Arctic Code Vault Contributor  
-- **787+ stars** across repositories ⭐️  
-- 18+ public repositories  
-- Love exploring new problems & building cool stuff
-
----
-
-## 📌 Fun Fact
-
-> “The one with evil twin on another side of the mirror.”
-
----
-
-> *“Code never lies, comments sometimes do.”*
+<a href="https://www.salroid.me"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-web-dark.svg"><img alt="Website: salroid.me" src="desk/contact-web-light.svg"></picture></a> <a href="mailto:gupta.sajal631@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-mail-dark.svg"><img alt="Email: gupta.sajal631@gmail.com" src="desk/contact-mail-light.svg"></picture></a> <a href="https://twitter.com/salRoid"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-x-dark.svg"><img alt="X: @salRoid" src="desk/contact-x-light.svg"></picture></a> <a href="https://www.instagram.com/sal_roid"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-instagram-dark.svg"><img alt="Instagram: @sal_roid" src="desk/contact-instagram-light.svg"></picture></a> <a href="https://www.linkedin.com/in/salroid"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-linkedin-dark.svg"><img alt="LinkedIn: in/salroid" src="desk/contact-linkedin-light.svg"></picture></a> <a href="https://www.youtube.com/@salroid"><picture><source media="(prefers-color-scheme: dark)" srcset="desk/contact-youtube-dark.svg"><img alt="YouTube: @salroid" src="desk/contact-youtube-light.svg"></picture></a>
 
 Thanks for dropping by! 🚀
