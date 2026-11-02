@@ -67,7 +67,7 @@ def banner(t):
 </g>
 
 <g class="sway" filter="url(#lift)">
-  <image x="90" y="-130" width="220" height="574" href="data:image/png;base64,{card}"/>
+  <image x="103" y="-103" width="194" height="505" href="data:image/png;base64,{card}"/>
 </g>
 </svg>'''
 
@@ -194,6 +194,16 @@ def skills(t):
     title = 'Toolbox: ' + '; '.join(f'{l.title()}: {", ".join(ch)}' for l, ch in SKILLS)
     return framed(c, W, H, 'TOOLBOX', title, ''.join(rows))
 
+def contributions(since):
+    # every year's contribution graph (the same data as the calendar on the profile), summed
+    import re, datetime
+    total = 0
+    for y in range(int(since), datetime.date.today().year + 1):
+        html = subprocess.run(['curl', '-s', f'https://github.com/users/salRoid/contributions?from={y}-01-01&to={y}-12-31'],
+                              capture_output=True, text=True).stdout
+        total += sum(int(n) for n in re.findall(r'>(\d+) contributions? on', html))
+    return total
+
 def numbers(t, gh, user):
     c = THEMES[t]
     W, H = 1000, 160
@@ -202,7 +212,7 @@ def numbers(t, gh, user):
         (f"{sum(r['stargazers_count'] for r in own):,}", 'stars across my repos'),
         (f"{gh['Filmy']['forks_count']}", 'forks of Filmy'),
         (user['created_at'][:4], 'the year I joined GitHub'),
-        ('2020', 'code in the Arctic Code Vault'),
+        (f"{contributions(user['created_at'][:4]):,}", 'contributions, all time'),
     ]
     body = ''.join(f'''{f'<line x1="{x - 22}" x2="{x - 22}" y1="68" y2="128" stroke="{c["line"]}"/>' if i else ''}
 <text x="{x}" y="102" font-family="{SANS}" font-size="34" font-weight="700" fill="{c['orange'] if i == 0 else c['fg']}">{n}</text>
